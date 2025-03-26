@@ -112,7 +112,7 @@ function ResultPage() {
     <div className="min-h-screen bg-gray-100">
       <div className="bg-[#b31e30] flex justify-between items-center py-3 px-7">
         <h1 className="text-yellow-400 text-3xl font-clarendon">
-          Tweet Classifier
+          Wells Fargo
         </h1>
         <div
           className="flex items-center hover:opacity-70 cursor-pointer"
