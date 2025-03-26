@@ -37,7 +37,10 @@ Here are some screenshots of the application:
    ![Result Screenshot](images/result.jpg)
 
 3. **Architecture**:
+   
    ![Architecture](images/architecture.jpg)
+
+   
 ## 💡 Inspiration
 This project was created during the [Technology Hackathon 2025] to showcase how AI-driven workflows can improve risk analysis processes.
 
