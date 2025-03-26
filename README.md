@@ -131,10 +131,6 @@ Follow these steps to set up the project locally.
    ```
 
 2. **Set Up Dependencies**:
-   - Install Python dependencies:
-     ```bash
-     pip install -r requirements.txt
-     ```
    - Install Node.js dependencies (if required):
      ```bash
      npm install
