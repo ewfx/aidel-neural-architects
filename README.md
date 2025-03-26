@@ -31,9 +31,11 @@ The **AI-Driven Entity Intelligence & Risk Analysis System** addresses the chall
 Here are some screenshots of the application:
 
 1. **Dashboard**:
+   
    ![Dashboard Screenshot](images/home.jpg)
 
 2. **Result**:
+   
    ![Result Screenshot](images/result.jpg)
 
 3. **Architecture**:
@@ -46,7 +48,7 @@ This project was created during the [Technology Hackathon 2025] to showcase how 
 
 ## ⚙️ What It Does
 
-## Features
+### Features
 - **Entity Extraction**:
    - Extracts and verifies corporate entities involved in transactions.
 - **Sanction Screening**:
@@ -87,7 +89,7 @@ This project was created during the [Technology Hackathon 2025] to showcase how 
      npm start
      ```
 
-4. ## Usage
+   ## Usage
    1. **Upload Dataset**:
     - Upload your financial dataset (e.g., a CSV file) via the provided interface.
    
