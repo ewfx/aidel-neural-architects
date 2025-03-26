@@ -1,21 +1,3 @@
-# 🚀 AI-Driven Entity Intelligence & Risk Analysis 🌟
-
-## Description
-The AI-Driven Entity Intelligence & Risk Analysis System is designed to automate the process of identifying, verifying, and risk-scoring financial transactions between entities. It integrates multiple data sources such as sanction lists, financial filings, and adverse media to assess transaction risks. The system reduces manual effort, enhances accuracy, and provides a comprehensive evaluation of transactional risks.
-
-## 📌 Table of Contents
-- [Introduction](#introduction)
-- [Demo](#demo)
-- [Inspiration](#inspiration)
-- [What It Does](#what-it-does)
-- [How We Built It](#how-we-built-it)
-- [Challenges We Faced](#challenges-we-faced)
-- [How to Run](#how-to-run)
-- [Tech Stack](#tech-stack)
-- [Team](#team)
-
----
-
 ## 🎯 Introduction
 The **AI-Driven Entity Intelligence & Risk Analysis System** addresses the challenges faced in modern-day financial reconciliations by:
 1. Automating anomaly detection in transactions
@@ -137,11 +119,4 @@ Follow these steps to set up the project locally.
 - 🔹 Backend:  Flask RESTful API
 - 🔹 Libraries Used: BeautifulSoup, transformers, google.generativeai
 - 🔹 Other: OpenCorporate API, SEC Edgar filings, GoogleNews API, HuggingFace models(summarizer, sentiment analysis)
-
-## 👥 Team
-- **Joel Vijo** 
-- **Lalit Mangal** 
-- **Pranjal Singla** 
-- **Vanshika Nehra**
-- **Vignesh S**
 
