@@ -144,8 +144,8 @@ Follow these steps to set up the project locally.
 
 <a name="team"></a>
 ## 👥 Team
-- **Joel Vijo** 
-- **Lalit Mangal** 
-- **Pranjal Singla** 
-- **Vanshika Nehra**
-- **Vignesh S**
+- **Joel Vijo** - [GitHub](https://github.com/Joel-Vijo) | [LinkedIn](https://www.linkedin.com/in/joel-vijo-39a921220/)
+- **Lalit Mangal** - [GitHub](https://github.com/shinigami1908) | [LinkedIn](https://www.linkedin.com/in/lalit-mangal/)
+- **Pranjal Singla** - [GitHub](https://github.com/pranjal-singla) | [LinkedIn](https://www.linkedin.com/in/pranjal-singla/)
+- **Vanshika Nehra** - [GitHub](https://github.com/VanshikaNehra23) | [LinkedIn](https://www.linkedin.com/in/vanshikanehra/)
+- **Vignesh S** 
