@@ -120,8 +120,8 @@ Follow these steps to set up the project locally.
 
 1. **Clone the Repository**:
    ```bash
-   git clone (https://github.com/ewfx/sradg-new-comers)
-   cd AI-Reconciliation-Tool
+   git clone (https://github.com/ewfx/aidel-neural-architects)
+   cd code/src
    ```
 
 2. **Set Up Dependencies**:
@@ -141,8 +141,8 @@ Follow these steps to set up the project locally.
 - 🔹 Other: OpenCorporate API, SEC Edgar filings, GoogleNews API, HuggingFace models(summarizer, sentiment analysis)
 
 ## 👥 Team
-- **Joel Vijo** - [GitHub](#) | [LinkedIn](#)
-- **Lalit Mangal** - [GitHub](#) | [LinkedIn](#)
+- **Joel Vijo** 
+- **Lalit Mangal** 
 - **Pranjal Singla** 
 - **Vanshika Nehra**
 - **Vignesh S**
