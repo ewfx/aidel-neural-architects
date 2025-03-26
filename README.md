@@ -23,7 +23,7 @@ The **AI-Driven Entity Intelligence & Risk Analysis System** addresses the chall
 3. Reduces the possibility of human error.
 
 ## 🎥 Demo 
-📹 [Video Demo](#) (https://drive.google.com/file/d/1P36hNL8-23ZYgR8YyFUUKrgsXGjpIQnC/view?usp=sharing)  
+📹 [Video Demo](https://drive.google.com/file/d/1P36hNL8-23ZYgR8YyFUUKrgsXGjpIQnC/view?usp=sharing)  
 ---
 Here are some screenshots of the application:
 
